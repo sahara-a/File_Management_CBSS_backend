@@ -1,6 +1,7 @@
 *.log
 .DS_Store
 .env
+google-drive-credentials.json
 .env.backup
 .env.production
 .phpactor.json
